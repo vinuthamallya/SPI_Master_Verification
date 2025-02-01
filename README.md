@@ -1,4 +1,4 @@
-# SPI_Master_Verification
+# SPI_Verification
 Verified SPI_Master using System Verilog 
 
 SPI is a serial peripheral interface , also known as 4 wire communication interface . It sends and recieves data bits serially .
